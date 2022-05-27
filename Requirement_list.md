@@ -8,3 +8,4 @@
 | 4 | openGauss | openGauss会议预定系统 | 如何杜绝因zoom token过期而造成的线上事故 | 2022-05-27 | liuqi | 钟君 |
 | 5 | openEuler | gitee平台机器人交互 | gitee平台上pr响应速度慢，用户希望能通过邮件或其他方式快速通知pr reviewer，建议可以是邮件。核心诉求就是审核人快速响应。| 2022-05-27 | | suse-魏强 |
 | 6 | openEuler | openEuler小智 | 鲲鹏产品部希望在社区上线openEuler小智和openGauss小智 | 2022-05-24 | 曹志/龚壮邦 | 罗盛炜/耿文元 |
+| 7 | openEuler | openEuler 门禁构建| openEuler bisheng JDK模块希望通过社区完成标准的统一的一致性构建，建议参考yocto嵌入式版本构建方案，迁移CI门禁功能适配完成。| 2022-05-27 | 曹志 | 王坤 |
