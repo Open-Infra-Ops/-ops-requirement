@@ -9,4 +9,5 @@
 | 5 | openEuler | gitee平台机器人交互 | gitee平台上pr响应速度慢，用户希望能通过邮件或其他方式快速通知pr reviewer，建议可以是邮件。核心诉求就是审核人快速响应。| 2022-05-27 | | suse-魏强 |
 | 6 | openEuler | openEuler小智 | 鲲鹏产品部希望在社区上线openEuler小智和openGauss小智 | 2022-05-24 | 曹志/龚壮邦 | 罗盛炜/耿文元 |
 | 7 | openEuler | openEuler 门禁构建| openEuler bisheng JDK模块希望通过社区完成标准的统一的一致性构建，建议参考yocto嵌入式版本构建方案，迁移CI门禁功能适配完成。| 2022-05-27 | 曹志 | 王坤 |
-| 8 | openEuler | website |  Additionally, it would probably be nice addition to detect the user locale and redirect to the according language (like https://www.openeuler.org/ redirecting to /zh, /ru or /en depending on the "Accept-Lang" HTTP header). Just as a few ideas to improve the first impression of international visitors to your project, but those things seem to be quite standard with multilingual websites. |
+| 8 | openEuler | website |  Additionally, it would probably be nice addition to detect the user locale and redirect to the according language (like https://www.openeuler.org/ redirecting to /zh, /ru or /en depending on the "Accept-Lang" HTTP header). Just as a few ideas to improve the first impression of international visitors to your project, but those things seem to be quite standard with multilingual websites. | 2022-05-23 | 王杏 | |
+| 9 | openEuler | website | openEuler 官网上线【能力评定】板块，对接华为时习知平台 | 2022-05-28 | 曹志 | 王景全 |
