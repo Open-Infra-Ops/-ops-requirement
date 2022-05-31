@@ -11,4 +11,4 @@
 | 7 | openEuler | openEuler 门禁构建| openEuler bisheng JDK模块希望通过社区完成标准的统一的一致性构建，建议参考yocto嵌入式版本构建方案，迁移CI门禁功能适配完成。| 2022-05-27 | 曹志 | 王坤 |
 | 8 | openEuler | website |  Additionally, it would probably be nice addition to detect the user locale and redirect to the according language (like https://www.openeuler.org/ redirecting to /zh, /ru or /en depending on the "Accept-Lang" HTTP header). Just as a few ideas to improve the first impression of international visitors to your project, but those things seem to be quite standard with multilingual websites. | 2022-05-23 | 王杏 | |
 | 9 | openEuler | website | openEuler 官网上线【能力评定】板块，对接华为时习知平台 | 2022-05-28 | 曹志 | 王景全 |
-| 10 | osifnra | mirrormanager2调研 | 调研https://github.com/fedora-infra/mirrormanager2, 在630前搭建一个可用的测试环境，并输出包含部署流程、基本功能介绍、组件和架构介绍的调研文档 | 2022-05-31 liuqi | 胡胜 |
+| 10 | osifnra | mirrormanager2调研 | 调研https://github.com/fedora-infra/mirrormanager2, 在630前搭建一个可用的测试环境，并输出包含部署流程、基本功能介绍、组件和架构介绍的调研文档 | 2022-05-31 | liuqi | 胡胜 |
