@@ -28,7 +28,7 @@ host				=			124.127.49.180
 port				=			8018
 timeout				=			3
 encodetype			=			0
-msgheadlength		=			0
+msgheadlength			=			0
 --
 
 // 2. 随机生成RSA密钥对
