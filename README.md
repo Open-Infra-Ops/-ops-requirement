@@ -1,5 +1,5 @@
  # 社区需求记录
- 
+
 |序号|社区|服务/应用|需求描述|时间|owner|需求提交人|
 |--|--|--|--|--|--|--|
 | 1 |openEuler | website| 社区网站英语版本包含混合的中文信息，对openEuler出海影响较大，近期推广openEuler在海外部署repo站点被挑战网站内容没有全英文。 |2022-05-23| 金晓萱| |
@@ -13,3 +13,4 @@
 | 9 | openEuler | website | openEuler 官网上线【能力评定】板块，对接华为时习知平台 | 2022-05-28 | 曹志 | 王景全 |
 | 10 | osifnra | mirrormanager2调研 | 调研https://github.com/fedora-infra/mirrormanager2, 在630前搭建一个可用的测试环境，并输出包含部署流程、基本功能介绍、组件和架构介绍的调研文档 | 2022-05-31 | 刘奇 | 胡胜 |
 | 11 | openEuler | rpm包的签名、验签与华为云DEW专属加密服务调研 | 调研华为云DEW提供的加密服务以及公司内的数字签名服务，调研SJJ1310接口签名、验签流程并将该流程集成到OBS中，[点击查看文档](https://github.com/Open-Infra-Ops/Requirement/blob/main/docs/liuqi/RPM%E6%96%87%E4%BB%B6%E7%9A%84%E7%AD%BE%E5%90%8D%E9%AA%8C%E7%AD%BE%E4%B8%8E%E5%8D%8E%E4%B8%BA%E4%BA%91DEW%E4%B8%93%E5%B1%9E%E5%8A%A0%E5%AF%86%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.md) | 2022-05-25 | 刘奇 | 曹志 |
+| 12 | osinfra | 华为云云上公网地址列表 | 汇总所有公网地址 | 2022-06-09 | 曹志 | 赵春江 |
